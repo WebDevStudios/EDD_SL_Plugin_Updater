@@ -1,5 +1,5 @@
 {
-  "name": "webdevstudios/edd_sl_plugin_updater",
+  "name": "webdevstudios/edd-sl-plugin-updater",
   "type": "library",
   "description": "EDD Updates Handler for WordPress Plugins",
   "keywords": ["edd", "updates", "wordpress"],
